@@ -18,6 +18,12 @@
 
 ## Usage
   When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions.
+  
+
+https://user-images.githubusercontent.com/100029887/220198943-62446d95-4e29-492d-bb91-aebf07996c06.mp4
+
+
+  
 
 ## Constributing
   Antonio Algaba Osuna
