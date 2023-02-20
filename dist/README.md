@@ -22,9 +22,11 @@ The application will starat by running `node index.js`
 
 ##  Contributing
 
-Antonio Algaba Osuna. 
+## Usage
+  When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions.
 
-You can reach me by email or github.
+## Constributing
+  Antonio Algaba Osuna
 
 ## Test
 
@@ -37,8 +39,9 @@ Email me or reach out on GitHub:
 - Email: someemail@gmail.com
 
 - Github: [@AntonioAlgaba](https://github.com/AntonioAlgaba)
-
-
-
-
-
+  
+  
+   
+## License
+  ISC
+  

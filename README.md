@@ -19,7 +19,11 @@
   When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions.
   
 
+<<<<<<< HEAD
 https://user-images.githubusercontent.com/100029887/220198943-62446d95-4e29-492d-bb91-aebf07996c06.mp4
+=======
+The application will start by running `node index.js`
+>>>>>>> 6539454b92f74f6416fd99747a5293be2627c18a
 
 
 You can watch the video here:
