@@ -18,7 +18,7 @@ Command-line application that dynamically generates a professional README.md fil
 
 Git clone the reposotory to your local machine. 
 
-The application will starat by running `node index.js`
+The application will start by running `node index.js`
 
 ##  Contributing
 
