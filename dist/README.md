@@ -23,7 +23,9 @@
 https://user-images.githubusercontent.com/100029887/220198943-62446d95-4e29-492d-bb91-aebf07996c06.mp4
 
 
-  
+You can watch the video here:
+
+https://watch.screencastify.com/v/B2pKn1u3sPY4TDraEgFE
 
 ## Constributing
   Antonio Algaba Osuna
