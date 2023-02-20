@@ -23,10 +23,9 @@ ${renderLicence(data.license)}
 ##  Table of Content
 - [Project description](#description)
 - [Installation](#installation)
-- [Instruction](#instruction)
 - [Usage](#usage)
-- [Constributions](#contributing)
-- [TestInstruction](#test)
+- [Constributiing](#contributing)
+- [Test](#test)
 - [Questions](#questions)
 - [Lincence](#licence)
   

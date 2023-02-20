@@ -1,29 +1,34 @@
+# README-generator: Node.js and ES6+
 
-# README generator
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 ## Description
-  Command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
-##  Table of Content
+Command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+
+## Table of Contents
+
 - [Project description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Constributing](#contributing)
+- [Constributions](#contributing)
 - [Test](#test)
 - [Questions](#questions)
-- [Licence](#licence)
-  
+
+
 ## Installation
-  npm install inquirer is required.
 
-## Usage
-  When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions.
+Git clone the reposotory to your local machine. 
 
-## Constributing
-  Antonio Algaba Osuna
+The application will starat by running `node index.js`
 
-## Test 
-  Not aplicable.
+##  Contributing
+
+Antonio Algaba Osuna. 
+
+You can reach me by email or github.
+
+## Test
+
+Not applicable.
 
 ## Questions
 
@@ -32,9 +37,8 @@ Email me or reach out on GitHub:
 - Email: someemail@gmail.com
 
 - Github: [@AntonioAlgaba](https://github.com/AntonioAlgaba)
-  
-  
-   
-## License
-  ISC
-  
+
+
+
+
+
