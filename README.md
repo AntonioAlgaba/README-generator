@@ -10,7 +10,7 @@ Command-line application that dynamically generates a professional README.md fil
 - [Installation](#installation)
 - [Usage](#usage)
 - [Constributions](#contributing)
-- [TestInstruction](#test)
+- [Test](#test)
 - [Questions](#questions)
 
 
