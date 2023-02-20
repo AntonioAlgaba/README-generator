@@ -43,9 +43,14 @@ ${renderLicence(data.license)}
   ${data.test}
 
 ## Questions
-  - Github: [@${data.github}](https://github.com/${data.github})
+
+Email me or reach out on GitHub:
+
+- Email: ${data.email}
+
+- Github: [@${data.github}](https://github.com/${data.github})
   
-  - Email: ${data.email}
+  
    
 ## License
   ${data.license}
